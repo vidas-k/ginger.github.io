@@ -1,1 +1,3 @@
-# ginger.github.io
+# Ginger Privacy Policy
+
+## Ginger Collects No Personal Information
