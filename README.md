@@ -2,3 +2,6 @@
 
 ## Ginger Collects No Personal Information
 Any of your personal data recorded stays on your device or iCloud. Ginger does not have access to your personal data and does not use, save, or collect it.
+
+##
+For any questions about the Privacy Policy, contact ginger.app.help@gmail.com
